@@ -9,7 +9,7 @@
 ## Peer-reviewd journal papers: (Google scholar)
 †Co-first author; \*corresponding author
 
-1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS applied electronic materials, accpeted, (2019)
+1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS applied electronic materials, accepted, (2019)
 
 1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3", App Phy Lett 113, (2018)
 
