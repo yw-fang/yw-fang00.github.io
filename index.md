@@ -11,12 +11,14 @@
 
 1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS applied electronic materials, accepted, (2019)
 
+1. Y. Shen, J. Cai, H.-C. Ding, X.-W. Shen, **Y.-W. Fang**, W.-Y. Tong, X.-G. Wan, Q. Zhao, and C.-G. Duan, "Role of Lone-Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study", Advanced Theory and Simulations 2, 1900029 (2019).
+
 1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3", App Phy Lett 113, (2018)
 
 1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2", Phys Rev B 97, (2018)
 
 1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo- 
-Chao Huang, **Y.-W. Fang**, et al. "Giant Photoresponse in Quantized Srruo3 Monolayer
+Chao Huang, **Y.-W. Fang**, et al. "Giant Photoresponse in Quantized SrRuo3 Monolayer
 at Oxide Interfaces." ACS Photonics, (2018).
 
 1. W. Huang, **Y.-W. Fang**, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "Solid-State Synapse Based on Magnetoelectrically Coupled Memristor",  ACS       
