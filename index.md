@@ -4,7 +4,13 @@
 
 1. Y.-W. Fang, W.-Y. Tong, C.-G. Duan, "Multiferroic simulations" in Integrated Multiferroic Heterostructures and Applications, Wiley-VCH, 2019, Chapter 4
 
-1. C.-G. Duan and Y.-W.Fang, "The application of first-principles calculations in multiferroics" in Applications on High Performance Computing, Tsinghua University Press, 2018, Sub chapter 
+1. C.-G. Duan and Y.-W. Fang, "The application of first-principles calculations in multiferroics" in Applications on High Performance Computing, Tsinghua University Press, 2018, Sub chapter 
+
+## Papers under review:
+
+1. Y.-W. Fang and H. Chen, Electric-field switching of polar displacements in a newly predicted polar metal, [arxiv](https://arxiv.org/abs/1901.08771), submitted to PRL in Feb., 2019
+
+1. Y.-W. Fang, R. Yang, H. Chen, submitted to JPCM in April, 2019
 
 ## Peer-reviewd journal papers: (Google scholar)
 †Co-first author; \*corresponding author
@@ -18,17 +24,17 @@
 1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2", Phys Rev B 97, (2018)
 
 1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo- 
-Chao Huang, **Y.-W. Fang**, et al. "Giant Photoresponse in Quantized SrRuo3 Monolayer
-at Oxide Interfaces." ACS Photonics, (2018).
+Chao Huang, **Y.-W. Fang**, et al. "Giant Photoresponse in Quantized SrRuO3 Monolayer
+at Oxide Interfaces", ACS Photonics 5, 1041, (2018).
 
 1. W. Huang, **Y.-W. Fang**, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "Solid-State Synapse Based on Magnetoelectrically Coupled Memristor",  ACS       
-Applied  Materials & Interfaces, (2018).
+Applied  Materials & Interfaces 10, 5649, (2018).
 
-1. L. Sun, **Y.-W. Fang**†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6", J. Mater. Chem. C online, (2017).
+1. L. Sun, **Y.-W. Fang**†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6", J. Mater. Chem. C 5, 5494, (2017).
 
 1. D. Zhao, W. Zong, Z. Fan, **Y.-W. Fang**, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, “Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property”, J. Nanopart. Res. 19, 124 (2017).
 
-1. **Y.-W. Fang**, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, “Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3 ”, Phys. Rev. B 95, 014111 (2017).
+1. **Y.-W. Fang**, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, “Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3”, Phys. Rev. B 95, 014111 (2017).
 
 1. D. Zhao, W. Zong, Z. Fan, S. Xiong, M. Du, T. Wu, **Y.-W. Fang**, F. Ji and X. Xu, “Synthesis
 of Carbon Doped BiVO4@Multi-Walled Carbon Nanotubes with High Visible Light Absorption
@@ -40,7 +46,7 @@ Duan, Q. He and Y.-H. Chu, “A Metal–Insulator Transition of the Buried MnO2 
 in Complex Oxide Heterostructure”, Adv. Mater. 28, 9142-9151 (2016).
 
 1. F. Zhang, **Y.-W. Fang**†, N. Y. Chan, W. C. Lo, D. F. Li, C.-G. Duan, F. Ding and J. Y.
-Dai, “Dynamic Modulation of the Transport Properties of the LaAlO3 /SrTiO3 Interface Using
+Dai, “Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using
 Uniaxial Strain”, Phys. Rev. B 93, 214427 (2016).
 
 1. W.-Y. Tong, **Y.-W. Fang**, J. Cai, S.-J. Gong and C.-G. Duan, “Theoretical Studies of All-
