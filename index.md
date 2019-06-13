@@ -82,3 +82,15 @@ Duan., “First-Principles Studies of Multiferroic and Magnetoelectric Materials
 
 1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, “Advances in Ferroelectric and Multifer-
 roic Tunnel Junctions”, Prog. Phys. 33, 382 (2013).
+
+## Oral presentations (conferences with only poster presentations are all omitted)
+
+1. Oral talk (specially invited): "Electric-field switching of polar displacements in a newly predicted polar metal", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
+
+1. Oral talk (specially invited): "Two-dimensional Electron Gases at Oxide Interfaces", Haiyou, ["Haiyou" Doctoral Forum in Spintronics, Shandong University](http://www.phy.sdu.edu.cn/info/1018/1587.htm), Shandong, China, April, 2016.
+
+## Conference papers
+
+1. "Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
+
+1. "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
