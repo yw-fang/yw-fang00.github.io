@@ -90,7 +90,11 @@ Duan., “First-Principles Studies of Multiferroic and Magnetoelectric Materials
 
 1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "Advances in Ferroelectric and Multiferroic Tunnel Junctions", Prog. Phys. 33, 382 (2013).
 
-## Oral presentations (conferences with only poster presentations are all omitted)
+# Conferences and workshops 
+
+The conferences with only poster presentations are all omitted.
+
+## Oral presentations 
 
 1. Oral talk (specially invited): "Electric-field switching of polar displacements in a newly predicted polar metal", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
 
