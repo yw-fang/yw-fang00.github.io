@@ -80,8 +80,7 @@ at Multivalent (110) LaAlO3/SrTiO3 Interfaces”, Phys. Rev. B 92, 115304 (2015)
 Duan., “First-Principles Studies of Multiferroic and Magnetoelectric Materials”, Sci. Bull. 2 ,
 156 (2015).
 
-1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, “Advances in Ferroelectric and Multifer-
-roic Tunnel Junctions”, Prog. Phys. 33, 382 (2013).
+1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "Advances in Ferroelectric and Multiferroic Tunnel Junctions", Prog. Phys. 33, 382 (2013).
 
 ## Oral presentations (conferences with only poster presentations are all omitted)
 
