@@ -1,3 +1,11 @@
+# About me
+
+Since 1st Nov. 2017, Yuewen has been working on materials informatics with Prof. Isao Tanaka and Prof. Atsushi Togo at Kyoto University (Kyoto, Japan) as a postdoc researcher (November 2017 - March 2020). Prior to joining Tanaka's lab, he has been a long-term visiting academic in the group of Prof. Hanghui Chen at New York University Shanghai (Shanghai, China) since March, 2017. He recevived his PhD of physical electronics from East China Normal University (Shanghai, China) under the supervision of Prof. Chun-Gang Duan in June 2017. During the PhD period, he spent 8 months from March 2016 to October 2016 in collaborating with Dr. Craig Fisher and Dr. Hiroki Moriwake at Japan Fine Ceramics Center (Nagoya, Japan).
+
+Yuewen's research interests include theoretical discover, design and develop functional materials such as thermoelectrics, multiferroics, ferroelectric insulators, polar metals, complex oxide interfaces, photovoltaic materials, and superconductors.
+
+
+
 # Publications
 
 ## Books or Book chapters
@@ -86,10 +94,14 @@ Duan., “First-Principles Studies of Multiferroic and Magnetoelectric Materials
 
 1. Oral talk (specially invited): "Electric-field switching of polar displacements in a newly predicted polar metal", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
 
+1. Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, USA, March, 2019
+
 1. Oral talk (specially invited): "Two-dimensional Electron Gases at Oxide Interfaces", Haiyou, ["Haiyou" Doctoral Forum in Spintronics, Shandong University](http://www.phy.sdu.edu.cn/info/1018/1587.htm), Shandong, China, April, 2016.
+
 
 ## Conference papers
 
-1. "Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
+1. **Yue-Wen Fang**, Atsushi Togo and Isao Tanaka,
+"Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
 
-1. "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
+1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
