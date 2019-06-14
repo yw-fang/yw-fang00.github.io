@@ -100,7 +100,7 @@ The conferences with only poster presentations are all omitted.
 
 1. Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, USA, March, 2019
 
-1. Oral talk (specially invited): "Two-dimensional Electron Gases at Oxide Interfaces", Haiyou, ["Haiyou" Doctoral Forum in Spintronics, Shandong University](http://www.phy.sdu.edu.cn/info/1018/1587.htm), Shandong, China, April, 2016.
+1. Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
 
 
 ## Conference papers
