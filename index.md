@@ -18,9 +18,9 @@ Yuewen's research interests include theoretical discover, design and develop fun
 
 †Co-first author; \*corresponding author
 
-1. Y.-W. Fang\* and H. Chen, "Electric-field switching of polar displacements in a newly predicted polar metal", [arxiv](https://arxiv.org/abs/1901.08771), submitted to PRL in Feb., 2019
+1. **Y.-W. Fang**\* and H. Chen, "Electric-field switching of polar displacements in a newly predicted polar metal", [arxiv](https://arxiv.org/abs/1901.08771), submitted to PRL in Feb., 2019
 
-1. Y. Yuan, Y.-W. Fang\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submitted to PRB in June, 2019
+1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submitted to PRB in June, 2019
 
 ## Peer-reviewd journal papers: 
 
@@ -28,7 +28,7 @@ Yuewen's research interests include theoretical discover, design and develop fun
 
 †Co-first author; \*corresponding author
 
-1. Y.-W. Fang\*, R. Yang, H. Chen, "The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides", provisionally accepted in  Journal of Physics: Condensed Matter, 2009
+1. **Y.-W. Fang**\*, R. Yang, H. Chen, "The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides", provisionally accepted in  Journal of Physics: Condensed Matter, 2009
 
 1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS applied electronic materials, publised online, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the *ACS Editors' Choice*]
 
