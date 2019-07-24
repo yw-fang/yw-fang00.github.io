@@ -30,7 +30,7 @@ Yuewen's research interests include theoretical discover, design and develop fun
 
 1. **Y.-W. Fang**\*, R. Yang, H. Chen, "The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides", online in  Journal of Physics: Condensed Matter, 2019
 
-1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS applied electronic materials, publised online, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the *ACS Editors' Choice*]
+1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS applied electronic materials 1, 1133, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the *ACS Editors' Choice*]
 
 1. Y. Shen, J. Cai, H.-C. Ding, X.-W. Shen, **Y.-W. Fang**, W.-Y. Tong, X.-G. Wan, Q. Zhao, and C.-G. Duan, "Role of Lone-Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study", Advanced Theory and Simulations 2, 1900029 (2019).
 
