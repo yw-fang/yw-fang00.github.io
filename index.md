@@ -18,7 +18,7 @@ Yuewen's research interests include theoretical discover, design and develop fun
 
 †Co-first author; \*corresponding author
 
-1. **Y.-W. Fang**\* and H. Chen, "Electric-field switching of polar displacements in a newly predicted polar metal", [arxiv](https://arxiv.org/abs/1901.08771), to be submitted to npj Computational Materials in July, 2019
+1. **Y.-W. Fang**\* and H. Chen, "Electric-field switching of polar displacements in a newly predicted polar metal", [arxiv](https://arxiv.org/abs/1901.08771), submitted to npj Computational Materials in August, 2019
 
 1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submitted to PRB in June, 2019
 
