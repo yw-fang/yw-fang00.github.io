@@ -59,34 +59,22 @@ Dai, “[Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Int
 1. W.-Y. Tong, **Y.-W. Fang**, J. Cai, S.-J. Gong and C.-G. Duan, “[Theoretical Studies of All-Electric Spintronics Utilizing Multiferroic and Magnetoelectric Materials](https://doi.org/10.1016/j.commatsci.2015.07.016)”, Comp. Mater. Sci.
 112, 467-477 (2016).
 
-1. **Y.-W. Fang**, J.-C. Nie, and C.-G. Duan, “Interface-based perovskite oxide electronics”, Physics
-45, 349 (2016).
+1. **Y.-W. Fang**, J.-C. Nie, and C.-G. Duan, “[Interface-based perovskite oxide electronics](https://doi.org/10.7693/wl20160601)”, Physics 45, 349 (2016). (Note that this commentary article is in Chinese.)
 
-1. M. Abdel-Hafiez, X. M. Zhao, A. A. Kordyuk, **Y.-W. Fang**, B. Pan, Z. He, C. -G. Duan, J.
-Zhao and X. J. Chen, “Enhancement of Superconductivity under Pressure and the Magnetic
-Phase Diagram of Tantalum Disulfide Single Crystals”, Sci. Rep. 6, 31824 (2016).
+1. M. Abdel-Hafiez, X. M. Zhao, A. A. Kordyuk, **Y.-W. Fang**, B. Pan, Z. He, C. -G. Duan, J. Zhao and X. J. Chen, “[Enhancement of Superconductivity under Pressure and the Magnetic Phase Diagram of Tantalum Disulfide Single Crystals](https://doi.org/10.1038/srep31824)”, Sci. Rep. 6, 31824 (2016).
 
-1. T. A. Abdel-Baset, **Y.-W. Fang**, C.-G. Duan and M. Abdel-Hafiez, “Magnetic Properties of
-Chromium-Doped ZnO”, J. Supercond. Nov. Magn. 29, 1937 (2016).
+1. T. A. Abdel-Baset, **Y.-W. Fang**, C.-G. Duan and M. Abdel-Hafiez, “[Magnetic Properties of Chromium-Doped ZnO](https://doi.org/10.1007/s10948-016-3502-6)”, J. Supercond. Nov. Magn. 29, 1937 (2016).
 
-1. T. A. Abdel-Baset, **Y.-W. Fang**, B. Anis, C.-G. Duan and M. Abdel-Hafiez, “Structural and
-Magnetic Properties of Transition-Metal-Doped Zn(1−x) Fe(x)O”, Nanoscale Res. Lett. 11 , 115
-(2016).
+1. T. A. Abdel-Baset, **Y.-W. Fang**, B. Anis, C.-G. Duan and M. Abdel-Hafiez, “[Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O](https://doi.org/10.1186/s11671-016-1332-x)”, Nanoscale Res. Lett. 11, 115 (2016).
 
-1. K. Zhang, Y. L. Cao, **Y.-W. Fang**, Q. Li, J. Zhang, C.-G. Duan, S.-S. Yan, Y.-F. Tian, R.
-Huang, R. K. Zheng, S.-S. Kang, Y.-X. Chen, G.-L. Liu and L.-M. Mei, “Electrical Control
-of Memristance and Magnetoresistance in Oxide Magnetic Tunnel Junctions.”, Nanoscale 7 ,
-6334 (2015).
+1. K. Zhang, Y. L. Cao, **Y.-W. Fang**, Q. Li, J. Zhang, C.-G. Duan, S.-S. Yan, Y.-F. Tian, R. Huang, R. K. Zheng, S.-S. Kang, Y.-X. Chen, G.-L. Liu and L.-M. Mei, “[Electrical Control of Memristance and Magnetoresistance in Oxide Magnetic Tunnel Junctions](https://doi.org/10.1039/C5NR00522A)”, Nanoscale 7, 6334 (2015).
 
 1. Y.-L. Han, **Y.-W. Fang**†, Z.-Z. Yang, C.-J. Li, L. He, S.-C. Shen, Z.-Z. Luo, G.-L. Qu, C.-M.
-Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “Two-Dimensional Electron Gas
-at Multivalent (110) LaAlO3/SrTiO3 Interfaces”, Phys. Rev. B 92, 115304 (2015).
+Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional Electron Gas at Multivalent (110) LaAlO3/SrTiO3 Interfaces](https://doi.org/10.1103/PhysRevB.92.115304)”, Phys. Rev. B 92, 115304 (2015).
 
-1. **Y.-W. Fang**, H.-C. Ding, W.-Y. Tong, W.-J. Zhu, X. Shen, S.-J. Gong, X.-G. Wan and C.-G.
-Duan., “First-Principles Studies of Multiferroic and Magnetoelectric Materials”, Sci. Bull. 2 ,
-156 (2015).
+1. **Y.-W. Fang**, H.-C. Ding, W.-Y. Tong, W.-J. Zhu, X. Shen, S.-J. Gong, X.-G. Wan and C.-G. Duan., “[First-Principles Studies of Multiferroic and Magnetoelectric Materials](https://doi.org/10.1007/s11434-014-0628-4)”, Sci. Bull. 2, 156 (2015).
 
-1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "Advances in Ferroelectric and Multiferroic Tunnel Junctions", Prog. Phys. 33, 382 (2013).
+1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "[Advances in Ferroelectric and Multiferroic Tunnel Junctions](https://pip.nju.edu.cn/Home/BrowseIssue/142)", Prog. Phys. 33, 382 (2013). (Note that it's in Chinese, please refer to the [full text](https://pip.nju.edu.cn/Home/DownloadPDF/767) for more details)
 
 # Conferences and workshops 
 
