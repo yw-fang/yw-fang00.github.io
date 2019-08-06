@@ -28,39 +28,35 @@ Yuewen's research interests include theoretical discover, design and develop fun
 
 †Co-first author; \*corresponding author
 
-1. **Y.-W. Fang**\*, R. Yang, H. Chen, "The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides", Journal of Physics: Condensed Matter, 31, 44, (2019)
+1. **Y.-W. Fang**\*, R. Yang, H. Chen, "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides](https://doi.org/10.1088/1361-648X/ab31e0)", Journal of Physics: Condensed Matter, 31, 445803, (2019)
 
-1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure", ACS Applied Electronic Materials 1, 1133, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the **ACS Editors' Choice**]
+1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "[Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure](https://doi.org/10.1021/acsaelm.9b00146)", ACS Applied Electronic Materials 1, 1133, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the **ACS Editors' Choice**]
 
-1. Y. Shen, J. Cai, H.-C. Ding, X.-W. Shen, **Y.-W. Fang**, W.-Y. Tong, X.-G. Wan, Q. Zhao, and C.-G. Duan, "Role of Lone-Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study", Advanced Theory and Simulations 2, 1900029 (2019).
+1. Y. Shen, J. Cai, H.-C. Ding, X.-W. Shen, **Y.-W. Fang**, W.-Y. Tong, X.-G. Wan, Q. Zhao, and C.-G. Duan, "[Role of Lone-Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study](https://doi.org/10.1002/adts.201900029)", Advanced Theory and Simulations 2, 1900029 (2019).
 
-1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3", App Phy Lett 113, (2018)
+1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "[Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3](https://doi.org/10.1063/1.5035133)", App Phy Lett 113, (2018)
 
-1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2", Phys Rev B 97, (2018)
+1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "[High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2](https://doi.org/10.1103/PhysRevB.97.134508)", Phys Rev B 97, (2018)
 
 1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo- 
-Chao Huang, **Y.-W. Fang**, et al. "Giant Photoresponse in Quantized SrRuO3 Monolayer
-at Oxide Interfaces", ACS Photonics 5, 1041, (2018).
+Chao Huang, **Y.-W. Fang**, et al. "[Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces](https://doi.org/10.1021/acsphotonics.7b01339)", ACS Photonics 5, 1041, (2018).
 
-1. W. Huang, **Y.-W. Fang**, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "Solid-State Synapse Based on Magnetoelectrically Coupled Memristor",  ACS Applied  Materials & Interfaces 10, 5649, (2018).
+1. W. Huang, **Y.-W. Fang**, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "[Solid-State Synapse Based on Magnetoelectrically Coupled Memristor](https://doi.org/10.1021/acsami.7b18206)",  ACS Applied  Materials & Interfaces 10, 5649, (2018).
 
-1. L. Sun, **Y.-W. Fang**†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6", J. Mater. Chem. C 5, 5494, (2017).
+1. L. Sun, **Y.-W. Fang**†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "[Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6](https://doi.org/10.1039/C7TC00974G)", J. Mater. Chem. C 5, 5494, (2017).
 
-1. D. Zhao, W. Zong, Z. Fan, **Y.-W. Fang**, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, “Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property”, J. Nanopart. Res. 19, 124 (2017).
+1. D. Zhao, W. Zong, Z. Fan, **Y.-W. Fang**, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, “[Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property](https://doi.org/10.1007/s11051-017-3818-6)”, J. Nanopart. Res. 19, 124 (2017).
 
-1. **Y.-W. Fang**, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, “Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3”, Phys. Rev. B 95, 014111 (2017).
+1. **Y.-W. Fang**, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, “[Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3](https://doi.org/10.1103/PhysRevB.95.014111)”, Phys. Rev. B 95, 014111 (2017).
 
-1. D. Zhao, W. Zong, Z. Fan, S. Xiong, M. Du, T. Wu, **Y.-W. Fang**, F. Ji and X. Xu, “Synthesis
-of Carbon Doped BiVO4@Multi-Walled Carbon Nanotubes with High Visible Light Absorption Behavior and Evaluation of Its Photocatalytic Property”, CrystEngComm 18, 9007 (2016).
+1. D. Zhao, W. Zong, Z. Fan, S. Xiong, M. Du, T. Wu, **Y.-W. Fang**, F. Ji and X. Xu, “[Synthesis of Carbon Doped BiVO4@Multi-Walled Carbon Nanotubes with High Visible Light Absorption Behavior and Evaluation of Its Photocatalytic Property](https://doi.org/10.1039/C6CE01642A)”, CrystEngComm 18, 9007 (2016).
 
-1. H.-J. Liu, J.-C. Lin, **Y.-W. Fang**, J.-C. Wang, B.-C. Huang, X. Gao, R. Huang, P. R. Dean, P. D. Hatton, Y.-Y. Chin, H.-J. Lin, C.-T. Chen, Y. Ikuhara, Y.-P. Chiu, C.-S. Chang, C.-G. Duan, Q. He and Y.-H. Chu, “A Metal–Insulator Transition of the Buried MnO2 Monolayer in Complex Oxide Heterostructure”, Adv. Mater. 28, 9142-9151 (2016).
+1. H.-J. Liu, J.-C. Lin, **Y.-W. Fang**, J.-C. Wang, B.-C. Huang, X. Gao, R. Huang, P. R. Dean, P. D. Hatton, Y.-Y. Chin, H.-J. Lin, C.-T. Chen, Y. Ikuhara, Y.-P. Chiu, C.-S. Chang, C.-G. Duan, Q. He and Y.-H. Chu, “[A Metal–Insulator Transition of the Buried MnO2 Monolayer in Complex Oxide Heterostructure](https://doi.org/10.1002/adma.201602281)”, Adv. Mater. 28, 9142-9151 (2016).
 
 1. F. Zhang, **Y.-W. Fang**†, N. Y. Chan, W. C. Lo, D. F. Li, C.-G. Duan, F. Ding and J. Y.
-Dai, “Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using
-Uniaxial Strain”, Phys. Rev. B 93, 214427 (2016).
+Dai, “[Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using Uniaxial Strain](https://doi.org/10.1103/PhysRevB.93.214427)”, Phys. Rev. B 93, 214427 (2016).
 
-1. W.-Y. Tong, **Y.-W. Fang**, J. Cai, S.-J. Gong and C.-G. Duan, “Theoretical Studies of All-
-Electric Spintronics Utilizing Multiferroic and Magnetoelectric Materials”, Comp. Mater. Sci.
+1. W.-Y. Tong, **Y.-W. Fang**, J. Cai, S.-J. Gong and C.-G. Duan, “[Theoretical Studies of All-Electric Spintronics Utilizing Multiferroic and Magnetoelectric Materials](https://doi.org/10.1016/j.commatsci.2015.07.016)”, Comp. Mater. Sci.
 112, 467-477 (2016).
 
 1. **Y.-W. Fang**, J.-C. Nie, and C.-G. Duan, “Interface-based perovskite oxide electronics”, Physics
