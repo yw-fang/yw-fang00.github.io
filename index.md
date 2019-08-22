@@ -92,6 +92,6 @@ The conferences with only poster presentations are all omitted.
 ## Conference papers
 
 1. **Yue-Wen Fang**, Atsushi Togo and Isao Tanaka,
-"[Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors](./conferences-info/amtc6-Nagoya-June2019.pdf)", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
+"![Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors](./conferences-info/amtc6-Nagoya-June2019.pdf)", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
 
 1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
