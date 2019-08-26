@@ -10,9 +10,9 @@ Yuewen's research interests include theoretical discover, design and develop fun
 
 ## Books or Book chapters
 
-1. Y.-W. Fang, W.-Y. Tong, C.-G. Duan, "Multiferroic simulations" in Integrated Multiferroic Heterostructures and Applications, Wiley-VCH, 2019, Chapter 4
+1. Y.-W. Fang, W.-Y. Tong, C.-G. Duan, "Multiferroic simulations" in [Integrated Multiferroic Heterostructures and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527803675), Wiley-VCH, 2019, Chapter 4
 
-1. C.-G. Duan and Y.-W. Fang, "The application of first-principles calculations in multiferroics" in Applications on High Performance Computing, Tsinghua University Press, 2018, Sub chapter 
+1. C.-G. Duan and Y.-W. Fang, "The application of first-principles calculations in multiferroics" in [Applications on High Performance Computing](http://www.tup.tsinghua.edu.cn/bookscenter/book_07736201.html), Tsinghua University Press, 2018, Sub chapter. Note that this book was published in Chinese.
 
 ## Papers under review:
 
