@@ -88,6 +88,8 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Poster presentations
 
+ Note that the many conferences I had poster presentation that were hosted before 2017 were all ommited.
+
 1. "Electric-field switching of polar displacements in a newly predicted polar metal", The International Workshop on Oxide Electronics (iWOE26), Kyoto University, Japan, September, 2019
 
 1. "Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, June, 2019.
