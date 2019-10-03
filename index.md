@@ -78,8 +78,6 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 # Conferences and workshops 
 
-The conferences with only poster presentations are all omitted.
-
 ## Oral presentations 
 
 1. Oral talk (specially invited): "Electric-field switching of polar displacements in a newly predicted polar metal", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
@@ -87,6 +85,13 @@ The conferences with only poster presentations are all omitted.
 1. Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, USA, March, 2019
 
 1. Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
+
+## Poster presentations
+
+1. "Electric-field switching of polar displacements in a newly predicted polar metal", The International Workshop on Oxide Electronics (iWOE26), Kyoto University, Japan, September, 2019
+
+1. "Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, June, 2019.
+   
 
 
 ## Conference papers
