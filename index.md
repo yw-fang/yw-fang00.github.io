@@ -40,8 +40,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "[High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2](https://doi.org/10.1103/PhysRevB.97.134508)", Phys Rev B 97, (2018)
 
-1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo- 
-Chao Huang, **Y.-W. Fang**, et al. "[Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces](https://doi.org/10.1021/acsphotonics.7b01339)", ACS Photonics 5, 1041, (2018).
+1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, **Y.-W. Fang**, et al. "[Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces](https://doi.org/10.1021/acsphotonics.7b01339)", ACS Photonics 5, 1041, (2018).
 
 1. W. Huang, **Y.-W. Fang**, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "[Solid-State Synapse Based on Magnetoelectrically Coupled Memristor](https://doi.org/10.1021/acsami.7b18206)",  ACS Applied  Materials & Interfaces 10, 5649, (2018).
 
@@ -104,3 +103,9 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 "[Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors](https://github.com/yw-fang/yw-fang.github.io/blob/master/conferences-info/amtc6-Nagoya-June2019-abstract.pdf)", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
 
 1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
+
+## Science blogs about my academic findings
+
+1. Nature Research Device and Materials Engineering Community, 2020, *coming soon*
+
+1. [A Glimpse into a “Two-Faced” Material](https://research.shanghai.nyu.edu/centers-and-institutes/physics/news/glimpse-%E2%80%9Ctwo-faced%E2%80%9D-material)
