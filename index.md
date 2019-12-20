@@ -2,7 +2,7 @@
 
 Since 1st Nov. 2017, Yuewen has been working on materials informatics at Kyoto University (Kyoto, Japan) as a postdoc researcher (November 2017 - March 2020). Prior to joining Kyoto University, he has been a long-term visiting academic in the group of Prof. Hanghui Chen at New York University Shanghai in China since March, 2017. He recevived his PhD in computational materials science from East China Normal University (Shanghai, China) under the supervision of Prof. Chun-Gang Duan in June 2017. During the PhD period, he spent eight months from March 2016 to October 2016 in collaborating with Dr. Craig Fisher and Dr. Hiroki Moriwake at Japan Fine Ceramics Center (Nagoya, Japan).
 
-Yuewen's research interests include materials theory and materials discovery of thermoelectrics, multiferroics, ferroelectric insulators, polar metals, complex oxide interfaces, photovoltaic materials, and superconductors.
+Yuewen's research interests include materials theory and materials discovery of thermoelectrics, multiferroics, inorganic ferroelectrics, organic-inorganic hybrids, polar metals, complex oxide interfaces, photovoltaic materials, and superconductors.
 
 
 
