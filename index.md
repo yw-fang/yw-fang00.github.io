@@ -89,7 +89,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Poster presentations
 
- Note that the many conferences I had poster presentation that were hosted before 2017 were all ommited.
+ Note that the many conferences with poster presentations that were hosted before 2017 were all ommited, e.g. Chinese Physics Society, Chinese Materials Scociety, and Computational condensed matter physics from 2012 to 2017.
 
 1. "Electric-field switching of polar displacements in a newly predicted polar metal", The International Workshop on Oxide Electronics (iWOE26), Kyoto University, Japan, September, 2019
 
