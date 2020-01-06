@@ -81,7 +81,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Oral presentations 
 
-1. Oral talk (specially invited): "Electric-field switching of polar displacements in a newly predicted polar metal", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
+1. Oral talk (specially invited): "Design of polar metal and thermoelectric materials from high-throughput calculations", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
 
 1. Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, USA, March, 2019
 
