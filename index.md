@@ -18,9 +18,9 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", to be submitted, 2019
+1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", under review with PRL, 2020
 
-1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submitted to PRB in June, 2019
+1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", revision with PRB, 2020
 
 ## Peer-reviewd journal papers: 
 
@@ -28,7 +28,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening]", accepted, Communications Materials, (2020)
+1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening]", in-press (DOI: 10.1038/s43246-019-0005-6), Communications Materials, (2020)
 
 1. **Y.-W. Fang**\*, R. Yang, H. Chen, "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides](https://doi.org/10.1088/1361-648X/ab31e0)", Journal of Physics: Condensed Matter, 31, 445803, (2019)
 
