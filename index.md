@@ -28,7 +28,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening]", in-press (DOI: 10.1038/s43246-019-0005-6), Communications Materials, (2020)
+1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening](https://www.nature.com/articles/s43246-019-0005-6)", Communications Materials, 1, 1, (2020)
 
 1. **Y.-W. Fang**\*, R. Yang, H. Chen, "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides](https://doi.org/10.1088/1361-648X/ab31e0)", Journal of Physics: Condensed Matter, 31, 445803, (2019)
 
