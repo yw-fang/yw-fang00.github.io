@@ -18,9 +18,9 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", under review with PRL, 2020
+1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", revision with PRL, 2020
 
-1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", revision with PRB, 2020
+1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submited to JPCM, 2020
 
 ## Peer-reviewd journal papers: 
 
@@ -96,13 +96,16 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 1. "Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, June, 2019.
    
 
-
 ## Conference papers
 
 1. **Yue-Wen Fang**, Atsushi Togo and Isao Tanaka,
 "[Lattice Thermal Conductivities of Group-IV, V, VI based Semiconductors](https://github.com/yw-fang/yw-fang.github.io/blob/master/conferences-info/amtc6-Nagoya-June2019-abstract.pdf)", The 6th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2019.
 
 1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
+
+## Conference papers
+
+Physical Review; APL Materials
 
 ## Science blogs about my academic findings
 
