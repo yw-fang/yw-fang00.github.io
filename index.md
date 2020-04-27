@@ -1,6 +1,6 @@
 # About me
 
-Since 1st Nov. 2017, Yuewen has been working on materials informatics at Kyoto University (Kyoto, Japan) as a postdoc researcher (November 2017 - March 2020). Prior to joining Kyoto University, he has been a long-term visiting academic in the group of Prof. Hanghui Chen at New York University Shanghai in China since March, 2017. He recevived his PhD in computational materials science from East China Normal University (Shanghai, China) under the supervision of Prof. Chun-Gang Duan in June 2017. During the PhD period, he spent eight months from March 2016 to October 2016 in collaborating with Dr. Craig Fisher and Dr. Hiroki Moriwake at Japan Fine Ceramics Center (Nagoya, Japan).
+Since 1st Nov. 2017, Yuewen has been working on computational materials at Tokyo Institute of Technology (Yokohama, Japan)  since April 1st 2020 as a researcher. At the end of March, he left the Kyoto University (Kyoto, Japan) in which he had worked as a program specific researcher from November 1st 2017 to March 31st 2020. Prior to joining Kyoto University, he had been a long-term visiting academic in the group of Prof. Hanghui Chen at New York University Shanghai in China since March, 2017. He recevived his PhD in computational materials science from East China Normal University (Shanghai, China) under the supervision of Prof. Chun-Gang Duan in June 2017. During the PhD period, he spent eight months from March 2016 to October 2016 in collaborating with Dr. Craig Fisher and Dr. Hiroki Moriwake at Japan Fine Ceramics Center (Nagoya, Japan).
 
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, multiferroics, inorganic ferroelectrics, organic-inorganic hybrids, polar metals, complex oxide interfaces, photovoltaic materials, and superconductors.
 
@@ -18,9 +18,13 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
+1. "Linear magnetoresistance in XXX", under review of Science, 2020
+
 1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", revision with PRL, 2020
 
-1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submited to JPCM, 2020
+1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", revision with PRB, 2020
+
+1. 
 
 ## Peer-reviewd journal papers: 
 
@@ -103,9 +107,11 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
 
-## Conference papers
+## External reviewers and committee
 
-Physical Review; APL Materials
+1. Reviewers of Physical Review; APL Materials
+
+1. Member of Technical Program Committee of 2020 International Conference on Mechanical Engineering and Materials
 
 ## Science blogs about my academic findings
 
