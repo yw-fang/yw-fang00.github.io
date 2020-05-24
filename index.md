@@ -18,11 +18,11 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. "Linear magnetoresistance in XXX", under review of Science, 2020
+1. "Linear magnetoresistance in XXX", under review of Science Advance, 2020
 
 1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", revision with PRL, 2020
 
-1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", revision with PRB, 2020
+1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submitted, 2020
 
 1. 
 
