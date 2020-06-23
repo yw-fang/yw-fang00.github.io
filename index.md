@@ -108,7 +108,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## External reviewers and committee
 
-1. Reviewers for Physical Review; APL Materials; Materials Chemistry and Physics
+1. Reviewers for Physical Review Letters; Physical Review B; APL Materials; Materials Chemistry and Physics
 
 1. Member of Technical Program Committee of 2020 International Conference on Mechanical Engineering and Materials
 
