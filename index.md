@@ -17,11 +17,12 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. "Linear magnetoresistance in XXX", submitted, 2020
+1. "Coupled magnetic and structural phase transitions in antiferromagnetic polar metal Pb2CoOsO6 under pressure", to PRB, 2020
+
+1. "Linear magnetoresistance in XXX", to PRL, 2020
 
 
-1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", submitted, 2020
-
+1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", to JMMM, 2020
 
 
 ## Peer-reviewd journal papers: 
