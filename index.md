@@ -31,7 +31,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "Novel Spin Textures Associated with Giant Spin Splittings in a New Ferroelectric System", accepted in Phys Rev B as rapid communication, 2020
+1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "[Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041203)", Phys Rev B Rapid Communication, 102, 041203(R),(2020)
 
 1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening](https://www.nature.com/articles/s43246-019-0005-6)", Communications Materials, 1, 1, (2020)
 
