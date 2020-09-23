@@ -17,7 +17,6 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. "Coupled magnetic and structural phase transitions in antiferromagnetic polar metal Pb2CoOsO6 under pressure", to PRB, 2020
 
 1. "Linear magnetoresistance in XXX", to PRL, 2020
 
@@ -30,6 +29,8 @@ Yuewen's research interests include materials theory and materials discovery of 
 (Statistics: [Google scholar](https://scholar.google.com/citations?user=6NU1KPQAAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Yue_Wen_Fang3))
 
 †Co-first author; \*corresponding author
+
+1. Y.-Y. Jiao, **Y.-W. Fang**†, et al, "Coupled magnetic and structural phase transitions in antiferromagnetic polar metal Pb2CoOsO6 under pressure", PRB, accepted in production, 2020
 
 1. R.-Q. Wang, **Y.-W. Fang**, T.-M. Lei, "[Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations](https://doi.org/10.1016/j.physe.2020.114424)", Physica E: Low-dimensional Systems and Nanostructures, 126, 114424, (2021)
 
