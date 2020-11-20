@@ -103,6 +103,8 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 ## Poster presentations
 
  Note that the many conferences with poster presentations that were hosted before 2017 were all ommited, e.g. Chinese Physics Society, Chinese Materials Scociety, and Computational condensed matter physics from 2012 to 2017.
+ 
+1. “Design of a new functional polar metal”, Quantum Oxide Research Online Meeting, 2020
 
 1. "Electric-field switching of polar displacements in a newly predicted polar metal", The International Workshop on Oxide Electronics (iWOE26), Kyoto University, Japan, September, 2019
 
@@ -118,7 +120,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## External reviewers and committee
 
-1. Reviewers for Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Materials Chemistry and Physics; Journal of Physics: Condensed Matter
+1. Reviewers for Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express
 
 1. Member of Technical Program Committee of 2020 International Conference on Mechanical Engineering and Materials
 
