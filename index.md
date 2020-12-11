@@ -18,7 +18,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 †Co-first author; \*corresponding author
 
 
-1. "Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor", under the second round peer review with PRL, 2020, arXiv:2010.03319
+
 
 
 
@@ -30,8 +30,10 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
+1. "Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor", accepted in PRB as a rapid communication
+
 1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", 
-Journal of Magnetism and Magnetic Materials, accepted, 2020
+Journal of Magnetism and Magnetic Materials, 522, 167547, (2021)
 
 1. W. Niu, **Y.-W. Fang**†, Xiaoqian Zhang, Yakui Weng, Yongda Chen, Hui Zhang, Yulin Gan, Xiao Yuan, Shengjie Zhang, Jiabao Sun, Yile Wang, Lujun Wei, Yongbing Xu, Xuefeng Wang, Wenqing Liu and Yong Pu, "[Charge transfer induced multivalent states with resultant emergent magnetism in transition-metal oxide heterostructures]", Adv. Electron. Mater. accepted (2020)
 
