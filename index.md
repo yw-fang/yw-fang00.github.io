@@ -11,7 +11,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 1. Y.-W. Fang, W.-Y. Tong, C.-G. Duan, "Multiferroic simulations" in [Integrated Multiferroic Heterostructures and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527803675), Wiley-VCH, 2019, Chapter 4
 
-1. C.-G. Duan and Y.-W. Fang, "The application of first-principles calculations in multiferroics" in [Applications on High Performance Computing](http://www.tup.tsinghua.edu.cn/bookscenter/book_07736201.html), Tsinghua University Press, 2018, Sub chapter. Note that this book was published in Chinese.
+1. C.-G. Duan and Y.-W. Fang, Chapter 2 in [Applications on High Performance Computing](http://www.tup.tsinghua.edu.cn/bookscenter/book_07736201.html), Tsinghua University Press, 2018, Sub chapter. Note that this book was published in Chinese. (段纯刚，方跃文，马天星，杨光，李斌，沈吕林，丛维涛, 专著《高性能计算应用概览》中的第2章“高性能计算应用之计算材料研究”，编辑历军等，清华大学出版社，2018年)
 
 ## Papers under review:
 
