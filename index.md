@@ -30,12 +30,14 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. "Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor", accepted in PRB as a rapid communication
+1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", RSC Advances 11, 2353 (2021).
+
+1. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, **Yue-Wen Fang**, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "[Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113)", Physical Reivew B 102, 241113(R), (2020)
 
 1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain", 
 Journal of Magnetism and Magnetic Materials, 522, 167547, (2021)
 
-1. W. Niu, **Y.-W. Fang**†, Xiaoqian Zhang, Yakui Weng, Yongda Chen, Hui Zhang, Yulin Gan, Xiao Yuan, Shengjie Zhang, Jiabao Sun, Yile Wang, Lujun Wei, Yongbing Xu, Xuefeng Wang, Wenqing Liu and Yong Pu, "[Charge transfer induced multivalent states with resultant emergent magnetism in transition-metal oxide heterostructures]", Adv. Electron. Mater. accepted (2020)
+1. W. Niu, **Y.-W. Fang**†, Xiaoqian Zhang, Yakui Weng, Yongda Chen, Hui Zhang, Yulin Gan, Xiao Yuan, Shengjie Zhang, Jiabao Sun, Yile Wang, Lujun Wei, Yongbing Xu, Xuefeng Wang, Wenqing Liu and Yong Pu, "[Charge transfer induced multivalent states with resultant emergent magnetism in transition-metal oxide heterostructures]", Adv. Electron. Mater. 7, 2000803 (2021) **Selected as Cover article**: Advanced Electronic Materials 7, 2170001 (2021). Cover can be found [here](https://onlinelibrary.wiley.com/toc/2199160x/2021/7/1)
 
 1. Y.-Y. Jiao, **Y.-W. Fang**†, Jianping Sun, Pengfei Shan, Zhenhai Yu, Hai L. Feng, Bosen Wang, Hanming Ma, Yoshiya Uwatoko, Kazunari Yamaura, Yanfeng Guo, Hanghui Chen, and Jinguang Cheng, "[Coupled magnetic and structural phase transitions in antiferromagnetic polar metal Pb2CoOsO6 under pressure](https://doi.org/10.1103/PhysRevB.102.144418)", Phys. Rev. B 102, 144418, (2020)
 
