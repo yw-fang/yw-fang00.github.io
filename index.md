@@ -29,6 +29,8 @@ Yuewen's research interests include materials theory and materials discovery of 
 (Statistics: [Google scholar](https://scholar.google.com/citations?user=6NU1KPQAAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Yue_Wen_Fang3))
 
 †Co-first author; \*corresponding author
+1. H.-J. Liu, M. Ye, C.-Y. Yang, **Y.-W. Fang**†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "[Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure](https://doi.org/10.1016/j.apmt.2021.101101)", Applied Materials Today 24, 101101 (2021).
+
 
 1. D. Zheng, **Y.-W. Fang**†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "[Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction](https://doi.org/10.1021/acsnano.0c10200)",ACS Nano (2021).
 
@@ -126,7 +128,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## External reviewers and committee
 
-1. Reviewers for Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese)
+1. Reviewers for Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese)， Bulletin of the Chinese Ceramic Society (Chinese);
 
 1. Member of Technical Program Committee of 2020 International Conference on Mechanical Engineering and Materials
 
