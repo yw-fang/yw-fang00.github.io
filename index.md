@@ -105,7 +105,9 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Oral presentations 
 
-1. Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", APS mrch meeting, US, March 2021
+1. Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", APS march meeting, US, March 2021
+
+1. Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", Academic presentation online workshop of Tokyo Tech, Yokohama, Japan, Feburary 2021
 
 1. Oral talk: "Design of polar metals from first-principles calculations", MSL Young Researchers Presentation of Tokyo Tech, Yokohama, Japan, January 2021
 
