@@ -105,9 +105,15 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Oral presentations 
 
+1. Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", APS mrch meeting, US, March 2021
+
+1. Oral talk: "Design of polar metals from first-principles calculations", MSL Young Researchers Presentation of Tokyo Tech, Yokohama, Japan, January 2021
+
+1. Oral talk: "The design of polar metals and the mechanism of weak electron-soft-phonon coupling", Virtual meeting at Laurent Bellaiche’s laboratory of University of Arkansas, University of Arkansas, US, December, 2020.
+
 1. Oral talk (specially invited): "Design of polar metal and thermoelectric materials from high-throughput calculations", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
 
-1. Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, USA, March, 2019
+1. Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, US, March, 2019
 
 1. Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
 
