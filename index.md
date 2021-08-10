@@ -30,7 +30,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. L. Hu, **Y.-W. Fang**, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "[High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity]", Nature Communications , in press (2021).
+1. L. Hu, **Y.-W. Fang**, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "[High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity](https://doi.org/10.1038/s41467-021-25119-z)", Nature Communications , online (2021).
 
 1. H.-J. Liu, M. Ye, C.-Y. Yang, **Y.-W. Fang**†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "[Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure](https://doi.org/10.1016/j.apmt.2021.101101)", Applied Materials Today 24, 101101 (2021).
 
