@@ -30,7 +30,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4]", accepted by Chemistry of Materials, 2021
+1. L. Hu, Y. Zhu, **Y.-W. Fang**, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4](https://doi.org/10.1021/acs.chemmater.1c01619)", Chemistry of Materials, 2021
 
 1. L. Hu, **Y.-W. Fang**, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "[High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity](https://doi.org/10.1038/s41467-021-25119-z)", Nature Communications , online (2021).
 
