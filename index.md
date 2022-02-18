@@ -152,6 +152,8 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 1. IOP Trusted Reviewer status (Feb. 16th 2022)
 
+1. Certificate of ACS Reviewer Lab (July 21st 2019)
+
 ## Science blogs about my academic findings
 
 1. Nature Research Device and Materials Engineering Community: [Design of a multifunctional polar metal via high-throughput structural screening](https://devicematerialscommunity.nature.com/users/337762-yuewen-fang/posts/59089-design-of-a-multifunctional-polar-metal-via-high-throughput-structural-screening)
