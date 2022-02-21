@@ -31,6 +31,8 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
+1. Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics]()", Chemistry of Materials, 2022, in priciple accepted
+
 1. L. Hu, Y. Zhu, **Y.-W. Fang**, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4](https://doi.org/10.1021/acs.chemmater.1c01619)", Chemistry of Materials, 2021
 
 1. L. Hu, Y. Luo, **Y.-W. Fang**, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, ["High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3](https://doi.org/10.1002/aenm.202100661)", Advanced Energy Materials 11, 2100661 (2021).
