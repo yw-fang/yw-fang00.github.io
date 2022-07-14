@@ -115,6 +115,10 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Oral presentations 
 
+1. Oral talk: "High-Throughput First-Principles Predictions of Polar Materials", International FAIR-DI Conference on a FAIR Data Infrastructure for Materials Genomics, Shanghai University (hybdrid), China/Germany/US, July 14 2022
+
+1. Invited talk："Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
+
 1. Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", APS march meeting, US, March 2021
 
 1. Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", Academic presentation online workshop of Tokyo Tech, Yokohama, Japan, Feburary 2021
