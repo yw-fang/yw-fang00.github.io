@@ -1,4 +1,5 @@
-# About me
+# About me  
+
 Yuewen Fang currently works at the UPV/EHU. Previsouly, he was a researcher at the Materials Structure Labratory of Tokyo Institute of Technology from April 1st 2020 to Nov. 30 2021. At the end of March 2020, he left the laboratory of Prof. Isao Tanaka at Kyoto University (Kyoto, Japan) in which he had worked as a program specific researcher from November 1st 2017 to March 31st 2020. Prior to joining Kyoto University, he had been a visiting academic in the group of Dr. Hanghui Chen at New York University Shanghai in China since March, 2017. He recevived his PhD in Physical Electronics in June 2017 at East China Normal University in Shanghai, China under the supervision of Prof. Chun-Gang Duan. During the PhD period, he spent eight months from March 2016 to October 2016 at Japan Fine Ceramics Center (Nagoya, Japan).
 
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, polar metals, complex oxide interfaces, and photovoltaic materials. 
@@ -27,7 +28,20 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 ## Peer-reviewd journal papers: 
 
-(Statistics: [Google scholar](https://scholar.google.com/citations?user=6NU1KPQAAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Yue_Wen_Fang3))
+(Statistics: [Google scholar](https://scholar.google.com/citations?user=6NU1KPQAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Yue_Wen_Fang3), and
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-3674-7352"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-3674-7352
+    </a> )
 
 †Co-first author; \*corresponding author
 
