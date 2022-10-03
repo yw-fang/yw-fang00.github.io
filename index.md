@@ -1,4 +1,16 @@
-# About me  
+# Table of contents
+1. [Abount me](#introduction)
+2. [Publications](#publications)
+    1. [Books or Book chapters](#books)
+    2. [Papers under review](#underreview)
+    3. [Peer-reviewd journal papers](#reviewedjournals)
+3. [Conferences and workshops](#conferenceworkshops)
+4. [External reviewers and committee](#reviewers_members)
+5. [Science blogs about my academic findings](#scienceblogs)
+6. [Outreach activities](#outreach)
+
+
+# About me <a name="introduction"></a>
 
 Yuewen Fang currently works at the UPV/EHU as a postdoc in the group of Prof. Ion Errea. Previsouly, he was a researcher at the Materials Structure Labratory of Tokyo Institute of Technology from April 1st 2020 to Nov. 30 2021. At the end of March 2020, he left the laboratory of Prof. Isao Tanaka at Kyoto University (Kyoto, Japan) in which he had worked as a program specific researcher from November 1st 2017 to March 31st 2020. Prior to joining Kyoto University, he had been a visiting academic in the group of Dr. Hanghui Chen at New York University Shanghai in China since March, 2017. He recevived his PhD in Physical Electronics in June 2017 at East China Normal University in Shanghai, China under the supervision of Prof. Chun-Gang Duan. During the PhD period, he spent eight months from March 2016 to October 2016 at Japan Fine Ceramics Center (Nagoya, Japan).
 
@@ -6,16 +18,16 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 
 
-# Publications
+# Publications <a name="publications"></a>
 
-## Books or Book chapters
+## Books or Book chapters <a name="books"></a>
 
 1. Y.-W. Fang, W.-Y. Tong, C.-G. Duan, "Multiferroic simulations" in [Integrated Multiferroic Heterostructures and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527803675), Wiley-VCH, 2019, Chapter 4
 
 1. C.-G. Duan, Y.-W. Fang, T. X. Ma, G. Yang, L. Kuang, W. Cong, "Application of HPC in computational materials science" in [Applications on High Performance Computing](http://www.tup.tsinghua.edu.cn/bookscenter/book_07736201.html), Tsinghua University Press, 2018, Note that this book was published in Chinese, Chapter 2
 <!--  (段纯刚，方跃文，马天星，杨光，李斌，沈吕林，丛维涛, 专著《高性能计算应用概览》中的第2章“高性能计算应用之计算材料研究”，编辑历军等，清华大学出版社，2018年) -->
 
-## Papers under review:
+## Papers under review: <a name="underreview"></a>
 
 †Co-first author; \*corresponding author
 
@@ -26,7 +38,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 
 
-## Peer-reviewd journal papers: 
+## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
 (Statistics: [Google scholar](https://scholar.google.com/citations?user=6NU1KPQAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Yue_Wen_Fang3), and
     <a
@@ -125,7 +137,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 1. **Y.-W. Fang**, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "[Advances in Ferroelectric and Multiferroic Tunnel Junctions](https://pip.nju.edu.cn/Home/BrowseIssue/142)", Prog. Phys. 33, 382 (2013). (Note that it's in Chinese, please refer to the [full text](https://pip.nju.edu.cn/Home/DownloadPDF/767) for more details)
 
-# Conferences and workshops 
+# Conferences and workshops <a name="conferenceworkshops"></a>
 
 ## Oral presentations 
 
@@ -165,13 +177,13 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
 
-## External reviewers and committee
+# External reviewers and committee <a name="reviewers_members"></a>
 
 1. Reviewers for Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; npj Computational Materials; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); Journal of Physics D: Applied Physics
 
 1. Member of Technical Program Committee, and reviewer of 2020 International Conference on Mechanical Engineering and Materials
 
-## Awards and certificate since 2019
+# Awards and certificate since 2019 <a name="awards"></a>
 
 1. [IOP Outstanding Reviewer Awards (2021)](https://publishingsupport.iopscience.iop.org/questions/journal-physics-d-applied-physics-2021-reviewer-awards/)
 
@@ -179,13 +191,13 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 1. Certificate of ACS Reviewer Lab (July 21st 2019)
 
-## Science blogs about my academic findings
+# Science blogs about my academic findings <a name="scienceblogs"></a>
 
 1. Nature Research Device and Materials Engineering Community: [Design of a multifunctional polar metal via high-throughput structural screening](https://devicematerialscommunity.nature.com/users/337762-yuewen-fang/posts/59089-design-of-a-multifunctional-polar-metal-via-high-throughput-structural-screening)
 
 1. [A Glimpse into a “Two-Faced” Material](https://research.shanghai.nyu.edu/centers-and-institutes/physics/news/glimpse-%E2%80%9Ctwo-faced%E2%80%9D-material)
 
-## Outreach activities
+# Outreach activities  <a name="outreach"></a>
 
 1. "A life for science" oral communication and poster presentation in the Science Meuseum of San Sebastian (Spain), 2022 October 17 and 24
 
