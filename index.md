@@ -6,8 +6,9 @@
     3. [Peer-reviewd journal papers](#reviewedjournals)
 3. [Conferences and workshops](#conferenceworkshops)
 4. [External reviewers and committee](#reviewers_members)
-5. [Science blogs about my academic findings](#scienceblogs)
-6. [Outreach activities](#outreach)
+5. [Awards and certificate since 2019](#awards)
+6. [Science blogs about my academic findings](#scienceblogs)
+7. [Outreach activities](#outreach)
 
 
 # About me <a name="introduction"></a>
