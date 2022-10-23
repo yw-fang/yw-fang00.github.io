@@ -204,5 +204,5 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 [Certificate on Oct. 17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/2022-Oct17-science-meusem-certificate.pdf)
 Oral presentation can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ)
 
-1. An invited oral lecture for high school students in Shanghai during Phd program (China)
+1. Plenary presentation in the "Science Forum for Young Generations", China. (2013 September 13)
 
