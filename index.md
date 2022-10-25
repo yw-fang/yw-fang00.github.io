@@ -201,16 +201,12 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 # Outreach activities  <a name="outreach"></a>
 
 1. "A life for science" oral communication and poster presentation in the Science Meuseum of San Sebastian (Spain), 2022 October 17 and 24. 
-<<<<<<< HEAD
 
 [Certificate on Oct. 17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certificates/2022-Oct17-science-meusem-certificate.pdf)
 
 
 [Certificate on Oct. 24](https://github.com/yw-fang/yw-fang.github.io/blob/master/certificates/2022-Oct24-science-meusem-certificate.pdf)
 
-=======
-[Certificate on Oct. 17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/2022-Oct17-science-meusem-certificate.pdf)
->>>>>>> 7256f26028b4fdd3c788df3c4ae059fcedab7637
 Oral presentation can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ)
 
 1. Plenary presentation in the "Science Forum for Young Generations", China. (2013 September 13)
