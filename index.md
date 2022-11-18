@@ -180,19 +180,23 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 # External reviewers and committee <a name="reviewers_members"></a>
 
-I have contributed **69** review reports to **15** peer-reviewed journals (Nov. 11, 2022).
+I have contributed **69** review reports to **16** peer-reviewed journals (Nov. 11, 2022).
 
-1. Reviewers for Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; npj Computational Materials; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); Journal of Physics D: Applied Physics; Journal of Alloys and Compounds
+1. Reviewers for **Physical Review Letters**; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; **npj Computational Materials**; **Advanced Science**; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); Journal of Physics D: Applied Physics; **Journal of Alloys and Compounds**
 
 1. Member of Technical Program Committee, and reviewer of 2020 International Conference on Mechanical Engineering and Materials
 
-# Awards and certificate since 2019 <a name="awards"></a>
+# Awards and certificate since 2017 <a name="awards"></a>
 
 1. [IOP Outstanding Reviewer Awards (2021)](https://publishingsupport.iopscience.iop.org/questions/journal-physics-d-applied-physics-2021-reviewer-awards/)
 
-1. IOP Trusted Reviewer status (Feb. 16th 2022)
+1. IOP Trusted Reviewer status (Institute of Physics (IOP) Publishing, Feb. 16th 2022)
 
-1. Certificate of ACS Reviewer Lab (July 21st 2019)
+1. Certificate of ACS Reviewer Lab (Institute of Physics (IOP) Publishing, July 21st 2019)
+
+1. Awardee of International Open International Grant Competition designed to support Young scientists (National University of Science and Technology, Russia, July 2017)
+
+1. Excellent Studesnts Intership of Physics of NYU-ECNU Physics Center (NYU Shanghai, March 2017)
 
 # Science blogs about my academic findings <a name="scienceblogs"></a>
 
@@ -202,14 +206,13 @@ I have contributed **69** review reports to **15** peer-reviewed journals (Nov. 
 
 # Outreach activities  <a name="outreach"></a>
 
+1. Science volunteer in the "scale up your world" workshop in the Science Week of UPV/EHU, Tabakalera, San Sebastian (Spain), 2022 Nov. 12. ![image](https://user-images.githubusercontent.com/16239703/202687467-b498e0fd-129c-42c3-9599-73106d5eb725.png)
+
 1. "A life for science" oral communication and poster presentation in the Science Meuseum of San Sebastian (Spain), 2022 October 17 and 24. 
 
-[Certificate on Oct. 17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/2022-Oct17-science-meusem-certificate.pdf)
-
-
-[Certificate on Oct. 24](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/2022-Oct24-science-meusem-certificate.pdf)
-
-Oral presentation can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ)
+- [Certificate on Oct. 17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/2022-Oct17-science-meusem-certificate.pdf)
+- [Certificate on Oct. 24](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/2022-Oct24-science-meusem-certificate.pdf)
+- Oral presentation can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ)
 
 1. Plenary presentation in the "Science Forum for Young Generations", China. (2013 September 13)
 
