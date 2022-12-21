@@ -33,12 +33,9 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
+There're several papers under review. However, I'll only show the ones that have appeared in the pre-print servers.
 
-
-
-
-
-
+[Chemical and Interfacial Design in the Visible-Light-Absorbing Ferroelectric Thin Films](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203111)
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
@@ -59,7 +56,7 @@ Yuewen's research interests include materials theory and materials discovery of 
 
 †Co-first author; \*corresponding author
 
-1. Rui-Qi Wang, **Y. -W. Fang**†, Tian-Min Lei†, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers]()", Journal of Magnetism and Magnetic Materials, Accepted in December 10, 2022
+1. Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", Journal of Magnetism and Magnetic Materials, 565, 170297 (2023)
 
 1. Wei Niu, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface
 ](https://doi.org/10.1021/acs.jpclett.2c00384)", J. Phys. Chem. Lett. 13, 13, 2976–2985 (2022).
@@ -183,7 +180,7 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 # External reviewers and committee <a name="reviewers_members"></a>
 
-I have contributed **76** review reports to **17** peer-reviewed journals (Nov. 19, 2022).
+I have contributed **77** review reports to **17** peer-reviewed journals (Nov. 19, 2022).
 
 1. Reviewers for **Physical Review Letters**; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; **npj Computational Materials**; **Advanced Science**; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); Journal of Physics D: Applied Physics; **Journal of Alloys and Compounds**, Physica Scripta
 
