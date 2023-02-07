@@ -218,4 +218,4 @@ I have contributed **80** review reports to **17** peer-reviewed journals (Nov. 
 
 # Mentoring  <a name="mentoring"></a>
 
-I have supervised several undergraduates/master/PhD since the years during my PhD (since 2012). Currenly, I am co-supervising 3 PhD students at Xidian University and XJTU (China). In addition, I have been a science mentor of the "Elhuyar Zientzia Azoka" science fair projects in San Sebastian, Spain since Nov. 2022.
+I have supervised several undergraduates/master/PhD since the years during my PhD (since 2012). Currently, I am co-supervising 3 PhD students at Xidian University and XJTU (China). In addition, I have been a science mentor of the "Elhuyar Zientzia Azoka" science fair projects in San Sebastian, Spain since Nov. 2022.
