@@ -194,7 +194,7 @@ I have contributed **85** review reports to **17** peer-reviewed journals (Feb 2
 
 1. Certificate of ACS Reviewer Lab (American Chemical Society, July 21st 2019)
 
-1. Awardee of International Open International Grant Competition designed to support Young scientists (National University of Science and Technology, Russia, July 2017)
+1. Awardee of International Open International Grant Competition designed to support Young scientists (Ministry of Education and Science of the Russian Federation， July 2017)
 
 1. Excellent Studesnts Intership of Physics of NYU-ECNU Physics Center (NYU Shanghai, March 2017)
 
