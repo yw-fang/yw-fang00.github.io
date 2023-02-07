@@ -192,7 +192,7 @@ I have contributed **80** review reports to **17** peer-reviewed journals (Nov. 
 (Institute of Physics (IOP) Publishing, April 26th 2022)
 1. IOP Trusted Reviewer status (Institute of Physics (IOP) Publishing, Feb. 16th 2022)
 
-1. Certificate of ACS Reviewer Lab (Institute of Physics (IOP) Publishing, July 21st 2019)
+1. Certificate of ACS Reviewer Lab (American Chemical Society, July 21st 2019)
 
 1. Awardee of International Open International Grant Competition designed to support Young scientists (National University of Science and Technology, Russia, July 2017)
 
