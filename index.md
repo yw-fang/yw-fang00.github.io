@@ -140,6 +140,8 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 ## Oral presentations 
 
+1. Oral talk (invited, virtual): "High-Throughput Screening of Functional Materials", Hefei Institutes of Physical Science, The Chinese Academy of Sciences, China, Feb 2023
+
 1. Oral talk: "High-Throughput First-Principles Predictions of Polar Materials", International FAIR-DI Conference on a FAIR Data Infrastructure for Materials Genomics, Shanghai University (hybdrid), China/Germany/US, July 14 2022
 
 1. Invited talk："Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
