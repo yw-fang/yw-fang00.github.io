@@ -182,9 +182,9 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 # External reviewers and committee <a name="reviewers_members"></a>
 
-I have contributed **85** review reports to **17** peer-reviewed journals (Feb 2023).
+I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2023).
 
-1. Reviewers for **Physical Review Letters**; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; **npj Computational Materials**; **Advanced Science**; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Nano Express; Journal of Physics: Materials; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); Journal of Physics D: Applied Physics; **Journal of Alloys and Compounds**, Physica Scripta
+1. Reviewers for **Physical Review Letters**; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; **npj Computational Materials**; **Advanced Science**; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials; Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); **Journal of Alloys and Compounds**, Physica Scripta
 
 1. Member of Technical Program Committee, and reviewer of 2020 International Conference on Mechanical Engineering and Materials
 
