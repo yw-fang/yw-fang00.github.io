@@ -188,7 +188,7 @@ I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2
 
 1. Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020 
 
-# Awards and certificate since 2017 <a name="awards"></a>
+# Awards and certificate since 2016 <a name="awards"></a>
 
 1. [IOP 2021 Outstanding Reviewer Awards](https://publishingsupport.iopscience.iop.org/questions/journal-physics-d-applied-physics-2021-reviewer-awards/)
 (Institute of Physics (IOP) Publishing, April 26th 2022)
@@ -198,7 +198,9 @@ I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2
 
 1. Awardee of International Open International Grant Competition designed to support Young scientists (Ministry of Education and Science of the Russian Federation， July 2017)
 
-1. Excellent Studesnts Intership of Physics of NYU-ECNU Physics Center (NYU Shanghai, March 2017)
+1. Studentship Program of Physics of NYU-ECNU Institute of Physics (NYU Shanghai, March 2017)
+
+1. Early Career Scientist Award of Key Laboratory of Polar Materials and Devices Ministry of Education (Shanghai, December 2016)
 
 # Science blogs about my academic findings <a name="scienceblogs"></a>
 
