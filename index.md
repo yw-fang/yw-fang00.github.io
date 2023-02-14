@@ -56,6 +56,8 @@ There're several papers under review. However, I'll only show the ones that have
 
 †Co-first author; \*corresponding author
 
+1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding d, Jianjun Tian a, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, Available online 11 February 2023
+
 1. Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)
 
 1. Wei Niu, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface
