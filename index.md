@@ -18,6 +18,7 @@ Yuewen Fang currently works at the UPV/EHU as a postdoc in the group of Prof. Io
 
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, polar metals, complex oxide interfaces, and photovoltaic materials. 
 
+Apart from my research interest, I have recently developed a new hobby of swimming with my two children. Interestingly, I have lived near rivers, lakes, or oceans throughout my life, but never learned how to swim until I enrolled in a swimming course in San Sebastian in January 2023. The motivation for learning this new skill was my children, who were already proficient swimmers. I didn't want to feel embarrassed when accompanying them to the swimming pool, so I took the plunge and decided to learn how to swim... 
 
 
 # Publications <a name="publications"></a>
