@@ -34,9 +34,9 @@ Apart from my research interest, I have recently developed a new hobby of swimmi
 
 †Co-first author; \*corresponding author
 
-There're several papers under review. However, I'll only show the ones that have appeared in the pre-print servers.
+There're several papers under review. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
 
-[Chemical and Interfacial Design in the Visible-Light-Absorbing Ferroelectric Thin Films](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203111)
+- [Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium](https://arxiv.org/abs/2301.06756)
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
