@@ -7,9 +7,9 @@
 3. [Conferences and workshops](#conferenceworkshops)
 4. [External reviewers and committee](#reviewers_members)
 5. [Awards and certificate since 2019](#awards)
-6. [Science blogs about my academic findings](#scienceblogs)
-7. [Outreach activities](#outreach)
-8. [Mentoring](#mentoring)
+6. [Outreach activities](#outreach)
+7. [Mentoring](#mentoring)
+8. [Science blogs](./subpages/science-blogs.md)
 
 
 # About me <a name="introduction"></a>
@@ -205,11 +205,6 @@ I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2
 
 1. Early Career Scientist Award of Key Laboratory of Polar Materials and Devices Ministry of Education (Shanghai, December 2016)
 
-# Science blogs about my academic findings <a name="scienceblogs"></a>
-
-1. Nature Research Device and Materials Engineering Community: [Design of a multifunctional polar metal via high-throughput structural screening](https://devicematerialscommunity.nature.com/users/337762-yuewen-fang/posts/59089-design-of-a-multifunctional-polar-metal-via-high-throughput-structural-screening)
-
-1. [A Glimpse into a “Two-Faced” Material](https://research.shanghai.nyu.edu/centers-and-institutes/physics/news/glimpse-%E2%80%9Ctwo-faced%E2%80%9D-material)
 
 # Outreach activities  <a name="outreach"></a>
 
@@ -226,3 +221,9 @@ I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2
 # Mentoring  <a name="mentoring"></a>
 
 I have supervised several undergraduates/master/PhD since the years during my PhD (since 2012). Currently, I am co-supervising 3 PhD students at Xidian University and XJTU (China). In addition, I have been a science mentor of the "Elhuyar Zientzia Azoka" science fair projects in San Sebastian, Spain since Nov. 2022.
+
+# Science blogs about my academic findings <a name="scienceblogs"></a>
+
+1. Nature Research Device and Materials Engineering Community: [Design of a multifunctional polar metal via high-throughput structural screening](https://devicematerialscommunity.nature.com/users/337762-yuewen-fang/posts/59089-design-of-a-multifunctional-polar-metal-via-high-throughput-structural-screening)
+
+1. [A Glimpse into a “Two-Faced” Material](https://research.shanghai.nyu.edu/centers-and-institutes/physics/news/glimpse-%E2%80%9Ctwo-faced%E2%80%9D-material)
