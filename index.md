@@ -1,9 +1,9 @@
 # Table of contents
 1. [Abount me](#introduction)
 2. [Publications](#publications)
-    1. [Books or Book chapters](#books)
-    2. [Papers under review](#underreview)
-    3. [Peer-reviewd journal papers](#reviewedjournals)
+    2.1 [Books or Book chapters](#books)
+    2.2 [Papers under review](#underreview)
+    2.3 [Peer-reviewd journal papers](#reviewedjournals)
 3. [Conferences and workshops](#conferenceworkshops)
 4. [External reviewers and committee](#reviewers_members)
 5. [Awards and certificate since 2019](#awards)
