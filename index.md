@@ -3,7 +3,7 @@
 2. [Publications](#publications): [Books & Chapters](#books), [Under review](#underreview), [Peer-reviewed papers](#reviewedjournals)
 3. [Conferences and workshops](#conferenceworkshops)
 4. [External reviewers and committee](#reviewers_members)
-5. [Awards and certificate since 2019](#awards)
+5. [Selected Awards](#awards)
 6. [Outreach activities](#outreach)
 7. [Mentoring](#mentoring)
 8. [Science blogs](./subpages/science-blogs.md)
@@ -188,7 +188,7 @@ I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2
 
 1. Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020 
 
-# Awards and certificate since 2016 <a name="awards"></a>
+# Selected Awards <a name="awards"></a>
 
 1. [IOP 2021 Outstanding Reviewer Awards](https://publishingsupport.iopscience.iop.org/questions/journal-physics-d-applied-physics-2021-reviewer-awards/)
 (Institute of Physics (IOP) Publishing, April 26th 2022)
@@ -201,6 +201,13 @@ I have contributed **85** review reports to **18** peer-reviewed journals (Feb 2
 1. Studentship Program of Physics of NYU-ECNU Institute of Physics (NYU Shanghai, March 2017)
 
 1. Early Career Scientist Award of Key Laboratory of Polar Materials and Devices Ministry of Education (Shanghai, December 2016)
+
+1. Global Mobility Fellowship (East China Normal University, December 2015)
+
+1. National Endeavor Fellowship (Ministry of Education of China, 2011)
+
+1. The Outstanding Volunteer of Hunan Province (69/province/year, 2010)
+
 
 
 # Outreach activities  <a name="outreach"></a>
