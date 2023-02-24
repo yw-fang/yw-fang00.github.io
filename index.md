@@ -56,13 +56,13 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 †Co-first author; \*corresponding author
 
-1. Qianqian Yang, Jingcong Hu2, **Y. -W. Fang**\*, Yueyang Jia, Rui Yang,Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng,Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "[Ferroelectricity in layered bismuth oxide down to one nanometer]"(), **Science**, accepted in Feb 23, 2023
+1. Qianqian Yang†, Jingcong Hu†, **Y. -W. Fang**\†, Yueyang Jia, Rui Yang,Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng,Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "[Ferroelectricity in layered bismuth oxide down to one nanometer]"(), **Science**, accepted in Feb 23, 2023
 
 1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding d, Jianjun Tian a, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, Available online 11 February 2023
 
 1. Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)
 
-1. Wei Niu, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface
+1. Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface
 ](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976–2985 (2022).
 
 1. Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics](https://doi.org/10.1021/acs.chemmater.2c00076)", **Chemistry of Materials**, 34, 6, 2798–2803 (2022).
