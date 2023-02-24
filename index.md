@@ -52,9 +52,11 @@ There're several papers under review. However, I'll only show the ones that have
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-Overview: 39 scientific papers (30 JCR-Q1 including Nat. Commun., Advanced Materials, etc, 18 of these publications as corresponding or co-first author) with 642 citations and h-index 16
+Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Materials, etc; 19 of these publications including Science as corresponding or co-first author) with 642 citations and h-index 16
 
 †Co-first author; \*corresponding author
+
+1. Qianqian Yang, Jingcong Hu2, **Y. -W. Fang**\*, Yueyang Jia, Rui Yang,Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng,Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "[Ferroelectricity in layered bismuth oxide down to one nanometer]"(), **Science**, accepted in Feb 23, 2023
 
 1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding d, Jianjun Tian a, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, Available online 11 February 2023
 
