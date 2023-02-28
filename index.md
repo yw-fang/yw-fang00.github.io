@@ -9,8 +9,9 @@
 8. [Science blogs](./subpages/science-blogs.md)
 
 
-# About me <a name="introduction"></a>
-
+# About me <a name="introduction"></a>   
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yue-wen-fang-5ba934177" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/yue-wen-fang-5ba934177?trk=profile-badge">Linkedin</a></div>
+              
 Yuewen Fang was from Zhejiang Province, China. Currently he works at the UPV/EHU as a postdoc in the group of Prof. Ion Errea. Previsouly, he was a researcher at the Materials Structure Labratory of Tokyo Institute of Technology from April 1st 2020 to Nov. 30 2021. He has also been offered an Associate Professor at Ningbo University at May 2021. He had worked as a program specific researcher from November 1st 2017 to March 31st 2020 in the laboratory of Prof. Isao Tanaka at Kyoto University (Kyoto, Japan). Prior to joining Kyoto University, he had been a visiting academic in the group of Dr. Hanghui Chen at New York University Shanghai in China since March, 2017. He recevived his PhD in Physical Electronics in June 2017 at East China Normal University in Shanghai, China under the supervision of Prof. Chun-Gang Duan. During the PhD period, he spent eight months from March 2016 to October 2016 at the R&D center Japan Fine Ceramics Center (Nagoya, Japan). Yuewen holds a BSc in Physics from Xiangtan University (2012). He received the training in molecular dynamics simulations under the supervision of Prof. Kaiwang Zhang from 2009 to 2012.  In 2011, he spent one month in Shanghai Baosteel Group Corporation for R&D intern.
 
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, polar metals, complex oxide interfaces, and photovoltaic materials. 
