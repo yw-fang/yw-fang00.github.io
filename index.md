@@ -2,7 +2,7 @@
 1. [Abount me](#introduction)
 2. [Publications](#publications): [Books & Chapters](#books), [Under review](#underreview), [Peer-reviewed papers](#reviewedjournals)
 3. [Conferences and workshops](#conferenceworkshops)
-4. [External reviewers and committee](#reviewers_members)
+4. [External reviewers, editors and committee](#reviewers_members)
 5. [Selected Awards](#awards)
 6. [Outreach activities](#outreach)
 7. [Mentoring](#mentoring)
@@ -183,13 +183,16 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 
 1. **Yue-Wen Fang**, Lin Sun, Rong Huang, Qing He, Junhao Chu, Ying-Hao Chu and Chun-Gang Duan, "[Spin glass in \[111\] Fe-Mn ordered Bi2FeMnO6](https://www.researchgate.net/publication/333747720_Spin_glass_in_111_Fe-Mn_ordered_Bi2FeMnO6)", The 5th International Symposium on Advanced Microscopy and Theoretical Calculations, Nagoya, 2016
 
-# External reviewers and committee <a name="reviewers_members"></a>
+# External reviewers, editors and committee <a name="reviewers_members"></a>
 
 I have contributed **86** review reports to **18** peer-reviewed journals (Feb 2023).
 
 1. Reviewers for **Physical Review Letters**; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; **npj Computational Materials**; **Advanced Science**; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials; Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society (Chinese); **Journal of Alloys and Compounds**, Physica Scripta
 
+1. **Youth Editorial Board Member** of the journal: Acta Metallurgica Sinica (English Letters). Impact factors: 3.024 (2021) JCR: Q2
+
 1. Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020 
+
 
 # Selected Awards <a name="awards"></a>
 
