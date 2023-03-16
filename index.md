@@ -99,7 +99,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 1. Y. Shen, J. Cai, H.-C. Ding, X.-W. Shen, **Y.-W. Fang**, W.-Y. Tong, X.-G. Wan, Q. Zhao, and C.-G. Duan, "[Role of Lone-Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study](https://doi.org/10.1002/adts.201900029)", **Advanced Theory and Simulations** 2, 1900029 (2019).
 
-1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "[Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3](https://doi.org/10.1063/1.5035133)", **App Phy Lett **113, (2018)
+1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "[Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3](https://doi.org/10.1063/1.5035133)", **Appl. Phys. Lett.** 113, 012902 (2018)
 
 1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "[High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2](https://doi.org/10.1103/PhysRevB.97.134508)", **Phys Rev B** 97, (2018)
 
