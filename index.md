@@ -55,7 +55,11 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 †Co-first author; \*corresponding author
 
+
+
 1. Qianqian Yang†, Jingcong Hu†, **Y. -W. Fang**†, Yueyang Jia, Rui Yang,Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng,Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "[Ferroelectricity in layered bismuth oxide down to 1 nanometer](https://www.science.org/doi/10.1126/science.abm5134)", **Science**, 379, 6638, 2023
+<img src="https://github.com/yw-fang/yw-fang.github.io/blob/master/journal-cover/abm5134.png" alt="cover" width="200">
+
 
 1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, 43, 8, 3275-3288 (2023)
 
