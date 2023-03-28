@@ -63,7 +63,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <p>1. Qianqian Yang†, Jingcong Hu†, <b>Y. -W. Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://www.science.org/doi/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p>
+      <p>40. Qianqian Yang†, Jingcong Hu†, <b>Y. -W. Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://www.science.org/doi/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p>
     </td>
     <td style="vertical-align: top;">
       <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a>
@@ -71,24 +71,32 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
   </tr>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <p>1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Science</b>, 43, 8, 3275-3288 (2023)</p>
+      <p>39. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Science</b>, 43, 8, 3275-3288 (2023)</p>
     </td>
     <td style="vertical-align: top;">
       <a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025"><img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"></a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <p>38. Rui-Qi Wang, <b>Y. -W. Fang*</b>, Tian-Min Lei*, "<a href="https://doi.org/10.1016/j.jmmm.2022.170297">Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers</a>", <b>Journal of Magnetism and Magnetic Materials</b>, 565, 170297 (2023)</p>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://doi.org/10.1016/j.jmmm.2022.170297"><img src="./journal-cover/JMMM-cover.jpg" alt="cover" width="500"></a>
+    </td>
+  </tr>
 </table>
 
-<!-- <p>Xinrui Cheng, Guoqiang Xi, <strong>Yue-Wen Fang</strong>, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <strong>Journal of the European Ceramic Society</strong>, 43, 8, 3275-3288 (2023)</p>
-<img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"> -->
 
 
-1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, 43, 8, 3275-3288 (2023)
 
-1. Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)
+
+1. <!--Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, 43, 8, 3275-3288 (2023)-->
+
+1. <!--Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)-->
 
 1. Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface
-](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976–2985 (2022).
+  ](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976–2985 (2022).
 
 1. Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics](https://doi.org/10.1021/acs.chemmater.2c00076)", **Chemistry of Materials**, 34, 6, 2798–2803 (2022).
 
@@ -100,8 +108,8 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 1. H.-J. Liu, M. Ye, C.-Y. Yang, **Y.-W. Fang**†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "[Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure](https://doi.org/10.1016/j.apmt.2021.101101)", **Applied Materials Today** 24, 101101 (2021).
 
-
 1. D. Zheng, **Y.-W. Fang**†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "[Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction](https://doi.org/10.1021/acsnano.0c10200)", **ACS Nano** (2021).
+
 
 1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", **RSC Advances** 11, 2353 (2021).
 
