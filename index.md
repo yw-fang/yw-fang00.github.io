@@ -11,7 +11,7 @@
 
 # About me <a name="introduction"></a>   
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yue-wen-fang-5ba934177" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/yue-wen-fang-5ba934177?trk=profile-badge">Linkedin</a></div>
-              
+
 Yuewen Fang was born in Zhejiang Province, China, and is a proud father of two daughters. He is currently working as a postdoc in Prof. Ion Errea's group at UPV/EHU. Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. Yuewen has also been offered an Associate Professor position at Ningbo University in May 2021. Prior to that, he worked as a program-specific researcher in the laboratory of Prof. Isao Tanaka at Kyoto University from November 1st, 2017, to March 31st, 2020. He was also a visiting academic in the group of Dr. Hanghui Chen at New York University Shanghai in China from March 2017. Yuewen received his PhD in Physical Electronics from East China Normal University in Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. During his PhD, he spent eight months at the R&D center of Japan Fine Ceramics Center (Nagoya, Japan) from March 2016 to October 2016. Yuewen completed his BSc in Physics from Xiangtan University in 2012 and received training in molecular dynamics simulations under the supervision of Prof. Kaiwang Zhang from 2009 to 2012. In 2011, he also interned for R&D at Shanghai Baosteel Group Corporation for one month.
 
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, polar metals, complex oxide interfaces, and photovoltaic materials. 
@@ -60,17 +60,17 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 <!-- 1. Qianqian Yang†, Jingcong Hu†, **Y. -W. Fang**†, Yueyang Jia, Rui Yang,Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng,Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "[Ferroelectricity in layered bismuth oxide down to 1 nanometer](https://www.science.org/doi/10.1126/science.abm5134)", **Science**, 379, 6638, 2023
 <img src="https://github.com/yw-fang/yw-fang.github.io/blob/master/journal-cover/abm5134.png" alt="cover" width="200"> -->
 
-
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <p>1. Qianqian Yang†, Jingcong Hu†, <b>Y. -W. Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://www.science.org/doi/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p>
     </td>
     <td style="vertical-align: top;">
-      <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="https://github.com/yw-fang/yw-fang.github.io/blob/master/journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="300"></a>
+      <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="300"></a>
     </td>
   </tr>
 </table>
+
 
 
 
@@ -183,9 +183,9 @@ Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., “[Two-Dimensional 
 ## Poster presentations
 
  Note that the many conferences with poster presentations that were hosted before 2017 were all ommited, e.g. Chinese Physics Society, Chinese Materials Scociety, and Computational condensed matter physics from 2012 to 2017.
- 
+
 1. "The superconductivity in doped barrium superhydrides", Psi-k Conference 2022, EPFL, Lausanne, Switzerland, August 2022
- 
+
 1. “Design of a new functional polar metal”, Quantum Oxide Research Online Meeting, 2020
 
 1. "Electric-field switching of polar displacements in a newly predicted polar metal", The International Workshop on Oxide Electronics (iWOE26), Kyoto University, Japan, September, 2019
