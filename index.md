@@ -71,7 +71,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
   </tr>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <p>39. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Science</b>, 43, 8, 3275-3288 (2023)</p>
+      <p>39. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Journal of the European Ceramic Society</b>, 43, 8, 3275-3288 (2023)</p>
     </td>
     <td style="vertical-align: top;">
       <a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025"><img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"></a>
@@ -144,6 +144,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 
 
+
 </table>
 
 
@@ -156,7 +157,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 1. <!--Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)-->
 
 1. <!--Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976--2985 (2022).-->
-    
+   
 1. <!--Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics](https://doi.org/10.1021/acs.chemmater.2c00076)", **Chemistry of Materials**, 34, 6, 2798--2803 (2022).-->
 
 1. <!--L. Hu, Y. Zhu, **Y.-W. Fang**, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4](https://doi.org/10.1021/acs.chemmater.1c01619)", **Chemistry of Materials**, 2021-->
