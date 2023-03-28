@@ -67,7 +67,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
       <p>1. Qianqian Yang†, Jingcong Hu†, <b>Y. -W. Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://www.science.org/doi/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p>
     </td>
     <td style="vertical-align: top;">
-      <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="https://github.com/yw-fang/yw-fang.github.io/blob/master/journal-cover/abm5134.png" alt="cover" width="200"></a>
+      <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="https://github.com/yw-fang/yw-fang.github.io/blob/master/journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="300"></a>
     </td>
   </tr>
 </table>
