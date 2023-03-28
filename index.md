@@ -69,9 +69,18 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
       <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <p>1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Science</b>, 43, 8, 3275-3288 (2023)</p>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025"><img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"></a>
+    </td>
+  </tr>
 </table>
 
-
+<!-- <p>Xinrui Cheng, Guoqiang Xi, <strong>Yue-Wen Fang</strong>, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <strong>Journal of the European Ceramic Society</strong>, 43, 8, 3275-3288 (2023)</p>
+<img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"> -->
 
 
 1. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, 43, 8, 3275-3288 (2023)
