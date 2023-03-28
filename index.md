@@ -85,7 +85,67 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
       <a href="https://doi.org/10.1016/j.jmmm.2022.170297"><img src="./journal-cover/JMMM-cover.jpg" alt="cover" width="500"></a>
     </td>
   </tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>37. Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>J. Phys. Chem. Lett.</b>, 13, 13, 2976–2985 (2022).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="https://doi.org/10.1021/acs.jpclett.2c00384"><img src="./journal-cover/JPCL.2022.13.issue-6cm-200dpi.jpg" alt="cover" width="400"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>36. Z. Pan, <strong>Y.-W. Fang</strong>, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "<a href="https://doi.org/10.1021/acs.chemmater.2c00076">Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics</a>", <strong>Chemistry of Materials</strong>, 34, 6, 2798–2803 (2022).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="https://doi.org/10.1021/acs.chemmater.2c00076"><img src="./journal-cover/chem-mater.2022.34.issue-6-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>35. L. Hu, Y. Zhu, <strong>Y.-W. Fang</strong>, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "<a href="https://doi.org/10.1021/acs.chemmater.1c01619">Origin and absence of giant negative thermal expansion in reduced and oxidized Ca<sub>2</sub>RuO<sub>4</sub></a>", <strong>Chemistry of Materials</strong>, 33, 19, 7646–7655 (2021).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="https://doi.org/10.1021/acs.chemmater.1c01619"><img src="./journal-cover/chem-mater.2021.33.issue-19-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+ <tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>34. L. Hu, Y. Luo, <strong>Y.-W. Fang</strong>, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, "<a href="https://doi.org/10.1002/aenm.202100661">High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3</a>", <b>Advanced Energy Materials</b> 11, 2100661 (2021).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="https://doi.org/10.1002/aenm.202100661"><img src="./journal-cover/AdvEnergyMater-Vol11Iss42.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+ <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <p>33. L. Hu, <strong>Y.-W. Fang</strong>, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "<a href="https://doi.org/10.1038/s41467-021-25119-z">High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity</a>", <strong>Nature Communications</strong> 12, 4793 (2021).</p>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://doi.org/10.1038/s41467-021-25119-z"><img src="./journal-cover/NatComm-cover.jpeg" alt="cover" width="500"></a>
+    </td>
+</tr>
+ <tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>32. H.-J. Liu†, M. Ye†, C.-Y. Yang†, <strong>Y.-W. Fang</strong>†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "<a href="https://doi.org/10.1016/j.apmt.2021.101101">Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure</a>", <strong>Applied Materials Today</strong> 24, 101101 (2021).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="https://doi.org/10.1016/j.apmt.2021.101101"><img src="./journal-cover/AppliedMaterialsToday-2021-VOL24.png" alt="cover" width="500"></a>
+  </td>
+</tr>
+ <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <p>31. D. Zheng†, <strong>Y.-W. Fang</strong>†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "<a href="https://doi.org/10.1021/acsnano.0c10200">Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction</a>", <b>ACS Nano</b>, 15, 3, 4898–4906 (2021).</p>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://doi.org/10.1021/acsnano.0c10200"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a>
+    </td>
+</tr>
+
+
+
 </table>
+
 
 
 
@@ -95,20 +155,19 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 1. <!--Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)-->
 
-1. Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface
-    ](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976–2985 (2022).
+1. <!--Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976--2985 (2022).-->
+    
+1. <!--Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics](https://doi.org/10.1021/acs.chemmater.2c00076)", **Chemistry of Materials**, 34, 6, 2798--2803 (2022).-->
 
-1. Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics](https://doi.org/10.1021/acs.chemmater.2c00076)", **Chemistry of Materials**, 34, 6, 2798–2803 (2022).
+1. <!--L. Hu, Y. Zhu, **Y.-W. Fang**, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4](https://doi.org/10.1021/acs.chemmater.1c01619)", **Chemistry of Materials**, 2021-->
 
-1. L. Hu, Y. Zhu, **Y.-W. Fang**, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4](https://doi.org/10.1021/acs.chemmater.1c01619)", **Chemistry of Materials**, 2021
+1. <!--L. Hu, Y. Luo, **Y.-W. Fang**, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, ["High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3](https://doi.org/10.1002/aenm.202100661)", **Advanced Energy Materials** 11, 2100661 (2021).-->
 
-1. L. Hu, Y. Luo, **Y.-W. Fang**, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, ["High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3](https://doi.org/10.1002/aenm.202100661)", **Advanced Energy Materials** 11, 2100661 (2021).
+1. <!--L. Hu, **Y.-W. Fang**, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "[High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity](https://doi.org/10.1038/s41467-021-25119-z)", **Nature Communications** 12, 4793 (2021).-->
 
-1. L. Hu, **Y.-W. Fang**, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "[High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity](https://doi.org/10.1038/s41467-021-25119-z)", **Nature Communications** 12, 4793 (2021).
+1. <!--H.-J. Liu, M. Ye, C.-Y. Yang, **Y.-W. Fang**†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "[Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure](https://doi.org/10.1016/j.apmt.2021.101101)", **Applied Materials Today** 24, 101101 (2021).-->
 
-1. H.-J. Liu, M. Ye, C.-Y. Yang, **Y.-W. Fang**†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "[Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure](https://doi.org/10.1016/j.apmt.2021.101101)", **Applied Materials Today** 24, 101101 (2021).
-
-1. D. Zheng, **Y.-W. Fang**†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "[Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction](https://doi.org/10.1021/acsnano.0c10200)", **ACS Nano** (2021).
+1. <!--D. Zheng, **Y.-W. Fang**†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "[Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction](https://doi.org/10.1021/acsnano.0c10200)", **ACS Nano** (2021).-->
 
 
 1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", **RSC Advances** 11, 2353 (2021).
