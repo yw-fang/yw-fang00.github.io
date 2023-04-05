@@ -290,8 +290,11 @@ I have contributed **86** review reports to **18** peer-reviewed journals (Feb 2
 
 # Selected Awards <a name="awards"></a>
 
+1. [MSCA Seal of Excellence](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/SealOf%20Excellence-2023April4.pdf) (European Commission, April 4 2023)
+
 1. [IOP 2021 Outstanding Reviewer Awards](https://publishingsupport.iopscience.iop.org/questions/journal-physics-d-applied-physics-2021-reviewer-awards/)
 (Institute of Physics (IOP) Publishing, April 26th 2022)
+
 1. IOP Trusted Reviewer status (Institute of Physics (IOP) Publishing, Feb. 16th 2022)
 
 1. Certificate of ACS Reviewer Lab (American Chemical Society, July 21st 2019)
