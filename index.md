@@ -141,8 +141,14 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
       <a href="https://doi.org/10.1021/acsnano.0c10200"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a>
     </td>
 </tr>
-
-
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>Y. Yuan, <strong>Y.-W. Fang</strong>, Y.-F. Zhao, and C.-G. Duan, "<a href="http://dx.doi.org/10.1039/D0RA09228B">Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice</a>", <b>RSC Advances</b> 11, 2353 (2021).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://dx.doi.org/10.1039/D0RA09228B"><img src="./journal-cover/RSC-Avances_cover_2019-bounding.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
 
 
 </table>
@@ -171,7 +177,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 <!--D. Zheng, **Y.-W. Fang**†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "[Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction](https://doi.org/10.1021/acsnano.0c10200)", **ACS Nano** (2021).-->
 
 
-1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", **RSC Advances** 11, 2353 (2021).
+<!-- 1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", **RSC Advances** 11, 2353 (2021). -->
 
 1. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, **Yue-Wen Fang**, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "[Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113)", **Physical Reivew B** 102, 241113(R), (2020)
 
