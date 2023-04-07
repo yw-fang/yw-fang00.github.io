@@ -63,7 +63,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <p>40. Qianqian Yang†, Jingcong Hu†, <b>Y. -W. Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://www.science.org/doi/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p>
+      <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://www.science.org/doi/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p>
     </td>
     <td style="vertical-align: top;">
       <a href="https://www.science.org/doi/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a>
@@ -71,7 +71,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
   </tr>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <p>39. Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Journal of the European Ceramic Society</b>, 43, 8, 3275-3288 (2023)</p>
+      <p>39. Xinrui Cheng, Guoqiang Xi, <b>Yue-Wen Fang</b>, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Journal of the European Ceramic Society</b>, 43, 8, 3275-3288 (2023)</p>
     </td>
     <td style="vertical-align: top;">
       <a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025"><img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"></a>
@@ -143,10 +143,18 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>Y. Yuan, <strong>Y.-W. Fang</strong>, Y.-F. Zhao, and C.-G. Duan, "<a href="http://dx.doi.org/10.1039/D0RA09228B">Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice</a>", <b>RSC Advances</b> 11, 2353 (2021).</p>
+    <p>30. Y. Yuan, <strong>Y.-W. Fang</strong>, Y.-F. Zhao, and C.-G. Duan, "<a href="http://dx.doi.org/10.1039/D0RA09228B">Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice</a>", <b>RSC Advances</b> 11, 2353 (2021).</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://dx.doi.org/10.1039/D0RA09228B"><img src="./journal-cover/RSC-Avances_cover_2019-bounding.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>29. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
 
@@ -179,7 +187,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 
 <!-- 1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", **RSC Advances** 11, 2353 (2021). -->
 
-1. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, **Yue-Wen Fang**, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "[Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113)", **Physical Reivew B** 102, 241113(R), (2020)
+<!-- 1. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, **Yue-Wen Fang**, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "[Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113)", **Physical Reivew B** 102, 241113(R), (2020) -->
 
 1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain",  **Journal of Magnetism and Magnetic Materials**, 522, 167547, (2021)
 
