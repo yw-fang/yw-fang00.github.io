@@ -301,6 +301,8 @@ I have contributed **86** review reports to **18** peer-reviewed journals (Feb 2
 
 1. Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020 
 
+1. Member of Conference Committee of 2023 5th International Conference on Advanced Materials and Ecological Environment
+
 
 # Selected Awards <a name="awards"></a>
 
